@@ -15,7 +15,6 @@
   },
   "main": "./lib/apac",
   "dependencies": {
-    "xml2js": ">=0.1.7",
     "request" : ">=2.12.0"
   },
   "devDependencies": {
